@@ -83,9 +83,7 @@ Project Structure
 How to Run
  1. Clone this repository:
 
-git clone https://github.com/your-username/your-repository-name.git
-
-
+git clone(https://github.com/Adarsh0777/Data_scielce-.git)
  2. Navigate to the project folder.
  3. Install the required libraries:
 
